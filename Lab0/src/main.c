@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
     int x = 0;
     int y = 0;
@@ -14,5 +14,5 @@ void main()
             y++;
         }
     }
-
+    return 0;
 }
